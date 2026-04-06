@@ -141,6 +141,6 @@ If you like this project, please give it a ⭐ on GitHub!
 
 ## Author
 
-Developed by **Pratik Patil**
-
+Developed by Pratik Patil
+Thank You!!
 ---
